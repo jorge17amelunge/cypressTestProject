@@ -1,0 +1,27 @@
+{
+  "name": "cypresstestproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:cache": "synpress-cache /wallet-setup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorge17amelunge/cypressTestProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorge17amelunge/cypressTestProject/issues"
+  },
+  "homepage": "https://github.com/jorge17amelunge/cypressTestProject#readme",
+  "devDependencies": {
+    "@synthetixio/synpress": "^4.1.1",
+    "@testing-library/cypress": "^8.0.2",
+    "cypress": "^15.1.0",
+    "typescript": "^5.9.2"
+  }
+}
