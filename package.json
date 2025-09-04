@@ -20,7 +20,6 @@
   "homepage": "https://github.com/jorge17amelunge/cypressTestProject#readme",
   "devDependencies": {
     "@synthetixio/synpress": "^4.1.1",
-    "@testing-library/cypress": "^8.0.2",
     "cypress": "^15.1.0",
     "typescript": "^5.9.2"
   }
